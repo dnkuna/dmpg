@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "25866628989",
+    "firebase_url": "https://dmpg-39780.firebaseio.com",
+    "project_id": "dmpg-39780",
+    "storage_bucket": "dmpg-39780.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25866628989:android:864d0db82f98c1ba9ca614",
+        "android_client_info": {
+          "package_name": "com.ushannlabs.esante"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "25866628989-7rqvhgsg9e6vj4qgaqs3d7432n455i81.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ushannlabs.esante",
+            "certificate_hash": "6f3648a1a4d4856cf228b776c001f160c41ee0a2"
+          }
+        },
+        {
+          "client_id": "25866628989-3r2g02ske05e5qhpmn8tk5dnt6g34hjl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ushannlabs.esante",
+            "certificate_hash": "ec355a2f865cbfd628c1b1a930c4cf6e6ffcbbeb"
+          }
+        },
+        {
+          "client_id": "25866628989-d4ihc5vj7lng81q2hi1rpbcv3vtf14v6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNi-Tdhymtkt7Rf87iVQiPW7wgCu5-TEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "25866628989-d4ihc5vj7lng81q2hi1rpbcv3vtf14v6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
